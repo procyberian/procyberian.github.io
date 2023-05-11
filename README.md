@@ -6,9 +6,9 @@ procyberian system distribution
 
 ## Main Services License
 
-Service License for Masscollabs Services and Masif Computing Services
+procyberian system distribution 
 
-Copyright (C) 2020, 2021, Masscollabs Services and Masif Computing Services
+Copyright (C) 2020 - 2023 Masscollabs Services
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published
