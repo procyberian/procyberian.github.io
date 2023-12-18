@@ -4,11 +4,11 @@ procyberian system distribution
 
 # Licenses
 
-## Main Services License
-
 procyberian system distribution 
 
-Copyright (C) 2020 - 2023 Masscollabs Services
+Copyright (C) 2017-2024 Masscollabs Services
+
+Copyright (C) 2017-2024 procyberian and contributors
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published
